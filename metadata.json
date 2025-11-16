@@ -1,0 +1,8 @@
+
+{
+  "name": "ParkEasy: Parking Management System",
+  "description": "A dual-user platform connecting travelers seeking safe parking with local hosts offering their unused parking spots. Features include location-based search, interactive maps, secure booking with QR codes, and a comprehensive dashboard for hosts to manage their listings.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
